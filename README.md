@@ -1,1 +1,1 @@
-# CV-de-Pierre-Dupont
+CV of Pierre Dupont (my first project)
